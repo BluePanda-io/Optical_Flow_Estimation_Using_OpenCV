@@ -10,7 +10,7 @@ A system for reading multiple videos and translate them into optical flow inform
 In this project, it was used the open-source library OpenCV for the collection of Optical Flow from regular RGB video
 
 ## Results of the Project 
-<img src="Images/result.png" width="300">
+<img src="Images/result.png" width="450">
 
 ## Technology Used 
 1.OpenCV
