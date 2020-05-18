@@ -13,7 +13,7 @@ In this project, it was used the open-source library OpenCV for the collection o
 <img src="Images/result.png" width="450">
 
 ## Technology Used 
-1.OpenCV
-2.Dynamic Texture DataSet
-3.Python
-4.JupyterNotebook
+1. OpenCV
+2. Dynamic Texture DataSet
+3. Python
+4. JupyterNotebook
